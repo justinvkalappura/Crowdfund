@@ -20,7 +20,7 @@ const Sidebar = () => {
 
   return (
     <div className="flex justify-between items-center flex-col sticky top-5 h-[93vh]">
-      <a href="http://127.0.0.1:8000/">
+      <a href="https://www.freeforu.in/">
         <Icon styles="w-[52px] h-[52px] bg-[#2c2f32]" imgUrl={logo} /></a>
       
 
